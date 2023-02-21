@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test h2 almendlig opgave", "Test h2 almendlig opgave\Test h2 almendlig opgave.csproj", "{9F4A1239-A21F-40A9-A51C-C98141D5A7C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4A1239-A21F-40A9-A51C-C98141D5A7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4A1239-A21F-40A9-A51C-C98141D5A7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4A1239-A21F-40A9-A51C-C98141D5A7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4A1239-A21F-40A9-A51C-C98141D5A7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94D04B06-669D-4080-BE37-E6DF3BB5C200}
+	EndGlobalSection
+EndGlobal
